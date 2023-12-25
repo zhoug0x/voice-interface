@@ -1,3 +1,4 @@
-models/*
-piper/*
+models/libritts
+models/semaine
+piper
 output.wav
