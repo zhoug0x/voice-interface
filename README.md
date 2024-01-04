@@ -20,7 +20,7 @@ you can find those downloads around here (somewhere):
 ** speaker number ranges **
 
 - `alba`: no speaker number
-- `libritt`: 0-1000+
+- `libritt`: 0-903
 - `semaine` 0-3
 
 
