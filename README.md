@@ -34,13 +34,13 @@
 
 **speaker number ranges**
 
-- `alba`: no speaker number
+- `alba` (default available): no speaker number
 - `libritt`: 0-903
 - `semaine` 0-3
 
 **optional:**
 
-- add the `libritt` and/or `semaine` models to the `models` directory
+- add the `aru`, `libritt` and/or `semaine` models to the `models` directory
   - these models have multiple "speakers" (voices) to play with
   - follow the folder convention of the existing `alba` model to install
 
